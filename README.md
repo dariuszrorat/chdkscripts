@@ -1,0 +1,2 @@
+# chdkscripts
+Various CHDK scripts
