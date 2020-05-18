@@ -4,4 +4,5 @@ Various CHDK scripts. Tested on CHDK 1.4 and DIGIC III processor on Canon Powers
 ## List of Lua Scripts
 
 - Effect bracketing
+- Zero noise two exposure bracketing
 - White balance bracketing
